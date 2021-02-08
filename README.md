@@ -2,19 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Portfolio's Alaa Sufi</title>
-    <meta
-      name="description"
-      content="My name is Alaa , I am a junior front end developer"
-    />
-    <meta
-      name="keywords"
-      content="portfolio ,frontend,front-end,web,developer "
-    />
-    <meta name="author" content="Alaa Sufi" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
