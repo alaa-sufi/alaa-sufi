@@ -1,4 +1,4 @@
-</h1>Hey, hi, hello!<h1>
+<h1>Hey, hi, hello!</h1>
   <p>
     My name is Alaa Sufi<br />
     I am a junior front end developer<br />
