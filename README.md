@@ -1,4 +1,4 @@
-![logo](https://alaa-sufi-portfolio.netlify.app/favicon-32x32.png)Hey, hi, hello!
+</h1>Hey, hi, hello!<h1>
   <p>
     My name is Alaa Sufi<br />
     I am a junior front end developer<br />
