@@ -8,9 +8,6 @@
     check my <a href="https://alaa-sufi-portfolio.netlify.app/#projects">projects</a> out.Talk soon!
   </p>
 </div>
-<div class="img col-md-5 col-12 d-none d-md-block">
-  <img src="img/about‫‬.png" alt="about" />
-</div>
 </div>
 <div class="footer col-12">
 <h1 ><span></span>about me</h1>
