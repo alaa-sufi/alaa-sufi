@@ -13,14 +13,8 @@
     />
     <meta name="author" content="Alaa Sufi" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
-    
-
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
-    />
-  
+    <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -47,7 +41,6 @@
           </div>
       </div>
     </div>
-  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/js/bootstrap.min.js"></script>
   </body>
